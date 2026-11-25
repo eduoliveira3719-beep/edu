@@ -1,0 +1,6 @@
+{
+  "name": "TNK Mudanças & Logística",
+  "description": "Simulação inteligente e instantânea de mudanças residenciais e comerciais com preço fechado e sem surpresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
